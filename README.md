@@ -18,4 +18,4 @@
     This project shows how powerful Sass is in designing front-end web pages and helps make the code very tidy.
     
 - **Get It Done**
-    -Focusing mostly on JavaScript, IndexedDB and Sass.
+    - Focusing mostly on JavaScript, IndexedDB and Sass.
