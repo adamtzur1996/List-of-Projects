@@ -19,3 +19,6 @@
     
 - **Get It Done**
     - Focusing mostly on JavaScript, IndexedDB and Sass.
+
+- **Sleepy Mondays** 
+    - Focusing entirely on Bootstrap, how to integrate Google Maps and how to implement wow.js
