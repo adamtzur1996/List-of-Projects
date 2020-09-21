@@ -1,7 +1,7 @@
-# Web-Developer-Master-Course
+# Web projects created using different languages, stacks and libraries.
 
 
-***Projects vary from basic to intermediate to advanced***
+***Projects vary from basic to advanced***
 
 
 ###### INDEX  
@@ -22,3 +22,6 @@
 
 - **Sleepy Mondays** 
     - Focusing entirely on Bootstrap, how to integrate Google Maps and how to implement wow.js
+
+- **To Do List Web App**
+    - A To Do list created using React and NPM.
