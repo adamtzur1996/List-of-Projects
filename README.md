@@ -25,3 +25,9 @@
 
 - **To Do List Web App**
     - A To Do list created using React and NPM.
+
+- **Quiz App**
+    - A simple core html, css and javascript project.
+    
+- **Timer**
+    - Another core html, css and javascript project.
