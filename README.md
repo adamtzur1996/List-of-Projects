@@ -27,7 +27,14 @@
     - A To Do list created using React and NPM.
 
 - **Quiz App**
+    - (Learnt online)
     - A simple core html, css and javascript project.
     
 - **Timer**
+    - (Learnt online)
     - Another core html, css and javascript project.
+    
+- **Recipe App**
+    - (Learnt online)
+    - An application created purposely with a mobile design with an integrated open source API. 
+      Focused mostly on JavaScript and the understanding of API and database.
