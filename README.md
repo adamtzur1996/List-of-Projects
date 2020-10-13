@@ -38,3 +38,8 @@
     - (Learnt online)
     - An application created purposely with a mobile design with an integrated open source API. 
       Focused mostly on JavaScript and the understanding of API and database.
+- **Movies App**
+  - (Learnt online)
+  - An application using an online DB and designed using basic html, css and javascript.
+    Can easily be changed and has multiple ways of being used as all html code is inside
+    the javascript code.
